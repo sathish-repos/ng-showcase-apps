@@ -23,7 +23,9 @@
           }
         ],
         "styles": ["apps/bs-apps/frontend-guide/src/styles.scss"],
-        "scripts": []
+        "scripts": [
+          "apps/bs-apps/frontend-guide/src/themes/bootstrap.bundle.min.js"
+        ]
       },
       "configurations": {
         "production": {
